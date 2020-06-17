@@ -1,7 +1,19 @@
-p {
- color: red;
-}
-
 #photo {
 	float: right;
+}
+
+body {
+	font: 16px Avenir, Helvetica, Sans-Serif;
+}
+
+h1 {
+	font: 32px Avenir, Helvetica, Sans-Serif;
+}
+
+h2 {
+	font: 24px Avenir, Helvetica, Sans-Serif;
+}
+
+h3 {
+	font: 20px Avenir, Helvetica, Sans-Serif;
 }
