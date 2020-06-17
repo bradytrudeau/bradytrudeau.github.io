@@ -7,13 +7,17 @@ body {
 }
 
 h1 {
-	font: 32px Avenir, Helvetica, Sans-Serif;
+	font: 36px Avenir, Helvetica, Sans-Serif;
 }
 
 h2 {
-	font: 24px Avenir, Helvetica, Sans-Serif;
+	font: 28px Avenir, Helvetica, Sans-Serif;
 }
 
 h3 {
+	font: 24px Avenir, Helvetica, Sans-Serif;
+}
+
+h4 {
 	font: 20px Avenir, Helvetica, Sans-Serif;
 }
