@@ -26,3 +26,7 @@ h4 {
 	background-image: url("https://jackpurcellmeats.com.au/wp-content/uploads/2012/09/old-paper-bg.jpg");
   background-size: cover;
 }
+
+#myname {
+	font: 36px Avenir, Helvetica, Sans-Serif;
+}
