@@ -3,6 +3,8 @@
 }
 
 body {
+	background-image: url("https://t4.ftcdn.net/jpg/02/99/77/09/240_F_299770944_6qbBDaEe3MkQZNfFBYWvQMMM3a7FAof7.jpg");
+  background-size: cover;
 	font: 16px Avenir, Helvetica, Sans-Serif;
 }
 
@@ -23,8 +25,6 @@ h4 {
 }
 
 #container {
-	background-image: url("https://jackpurcellmeats.com.au/wp-content/uploads/2012/09/old-paper-bg.jpg");
-  background-size: cover;
 	width: 800px;
 	margin: 50px auto 50px;
 }
