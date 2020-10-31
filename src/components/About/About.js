@@ -4,8 +4,8 @@ import './About.css';
 class About extends Component {
   render() {
     return (
-      <div>
-            <h3>About</h3>
+      <div id="about">
+            <h2 className="aboutH2">About</h2>
       </div>
     );
   }

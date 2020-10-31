@@ -7,17 +7,19 @@
 }
 
 .nav {
-  margin: 0 0 30px;
-  background-color: #000000;
   overflow: hidden;
+  border-top: #ffffff;
+  border-bottom: #ffffff;
+  border-style: solid;
+  border-width: 1px;
+  padding-bottom: 30px;
+  padding-top: 30px;
 }
 
 .nav-link {
-  float: left;
   color: #f2f2f2;
-  background-color: #000000;
   text-align: center;
-  padding: 24px 10px;
+  padding: 50px;
   text-decoration: none;
   font-size: 15px;
 
@@ -33,5 +35,5 @@
 }
 
 .nav-right {
-  float: right;
+    text-align: center;
 }

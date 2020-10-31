@@ -13,7 +13,6 @@ class Nav extends Component {
     return (
         <Router>
             <div className="nav">
-                <h2 className="nav-title">Brady Trudeau</h2>
                 <div className="nav-right">
                 <Link 
                     className="nav-link">

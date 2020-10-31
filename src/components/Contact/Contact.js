@@ -4,7 +4,7 @@ import './Contact.css';
 class Contact extends Component {
   render() {
     return (
-      <div>
+      <div id="contact">
           <h3>Contact</h3>
       </div>
     );
