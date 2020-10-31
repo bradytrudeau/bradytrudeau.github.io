@@ -1,34 +1,30 @@
 import React, { Component } from 'react';
-import {
-    HashRouter as Router,
-    Route,
-    Redirect,
-    Switch,
-    Link,
-  } from 'react-router-dom';
+import AnchorLink from 'react-anchor-link-smooth-scroll';
+
 import './Nav.css';
 
 class Nav extends Component {
   render() {
     return (
-        <Router>
             <div className="nav">
                 <div className="nav-right">
-                <Link 
-                    className="nav-link">
-                        ABOUT
-                </Link>
-                <Link 
-                    className="nav-link">
-                        PROJECTS
-                </Link>
-                <Link 
-                    className="nav-link">
-                        CONTACT
-                </Link>
+                    <AnchorLink 
+                        href='#about'
+                        className="nav-link">
+                            ABOUT
+                    </AnchorLink>
+                    <AnchorLink 
+                        href='#projects'
+                        className="nav-link">
+                            PROJECTS
+                    </AnchorLink>
+                    <AnchorLink 
+                        href='#contact'
+                        className="nav-link">
+                            CONTACT
+                    </AnchorLink>
                 </div>
             </div>
-        </Router>
     );
   }
 }

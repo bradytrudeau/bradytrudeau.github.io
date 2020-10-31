@@ -11,11 +11,13 @@ class Projects extends Component {
             <ReactPlayer url="https://youtu.be/FPe3gaOlHdg" className="projectVideo"/>
             <h3 className="projectsH3">Click! Metronome App</h3>
             <p className="projectsCard">
-              Musician and marketing professional turned software developer. 
-              I'm a creative individual with a passion for technology. 
-              When I'm not geeking out on the newest effects pedals or building apps, 
-              you can find me playing with one of my bands, making food with my wife, 
-              or cheering on one of the many (usually disappointing) Minnesota sports teams. 
+            I've been a musician for as long as I can remember. 
+            As a musician, I've used hundreds of different tools to help hone my craft. 
+            Of all of these tools, the most important has been the metronome. 
+            I've used dozens of different kinds of metronomes, 
+            but have always had an issue with their inability to save a list of tempos for quickly recalling them 
+            and the limited number of sound options they have. 
+            For this reason, I've created the Click! Metronome App. Enjoy!
             </p>
 
       </div>
